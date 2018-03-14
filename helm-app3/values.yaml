@@ -11,7 +11,7 @@ image:
 
 service:
   type: NodePort
-  port: 3002
+  port: 3005
 
 ingress:
   enabled: false

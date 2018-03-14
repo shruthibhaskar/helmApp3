@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 104466/app-jenkin
+  repository: app-jenkin
   tag: latest
   pullPolicy: IfNotPresent
 
